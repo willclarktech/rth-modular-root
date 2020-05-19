@@ -1,0 +1,30 @@
+{
+  "name": "rth-modular-root",
+  "version": "0.0.0",
+  "description": "A library for finding r-th roots over finite fields",
+  "author": "willclarktech <willclarktech@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willclarktech/rth-modular-root.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willclarktech/rth-modular-root/issues"
+  },
+  "homepage": "https://github.com/willclarktech/rth-modular-root#readme",
+  "keywords": [
+    "modular",
+    "arithmetic",
+    "finite",
+    "fields",
+    "r-th",
+    "root",
+    "Tonelli-Shanks",
+    "Adleman-Manders-Miller",
+    "Cipolla-Lehmer"
+  ],
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
